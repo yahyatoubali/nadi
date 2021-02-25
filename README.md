@@ -23,5 +23,3 @@ I hope this collection will be useful!.
 
 *Happy Hacking*
 
-## Support
-you can support me here: https://www.buymeacoffee.com/bing0o
